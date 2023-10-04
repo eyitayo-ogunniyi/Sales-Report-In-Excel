@@ -71,7 +71,7 @@ I grouped each product by the total orders to see the most sold products
 
 I applied the same process to see the best-selling sizes
 
-![Vrinda Size](https://github.com/eyitayo22/Sales-Report-In-Excel/assets/116808634/2e9dc601-8426-42f1-8f4a-3e55ce4f6036)
+![Vrinda size](Vrinda-Size.png)
 
 Lastly, I analyzed the data to see the State with the highest sales
 
