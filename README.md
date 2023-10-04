@@ -31,7 +31,7 @@ I came up with the following business questions to guide my analysis and report:
 
 ### Data Cleaning and Manipulation
 
-The original dataset contains 31047 rows and 19 columns. This cleaning process aims to identify and fix issues with quality and structure in the data and transform it into a more usable format for analysis
+The original dataset contains **31047 rows** and **19 columns**. This cleaning process aims to identify and fix issues with quality and structure in the data and transform it into a more usable format for analysis
 
 Here is how I cleaned the data:
 
@@ -55,22 +55,33 @@ To answer the business task, I selected the cleaned data and inserted a pivot ta
 
 Then, I analyzed the monthly sales and created a chart
 
-![Monthly Sales]
+![Vrinda Monthly Sales](https://github.com/eyitayo22/Sales-Report-In-Excel/assets/116808634/6119abe2-e5fc-4f08-bdd7-55407dade9e1)
 
 To see what the average customer looks like, I analyzed the age…
 
+![Vrinda Age](https://github.com/eyitayo22/Sales-Report-In-Excel/assets/116808634/f921e309-da81-4e37-bae3-6aeda40f4772)
 
 …and the gender group per sale
 
+![Vrinda Gender](https://github.com/eyitayo22/Sales-Report-In-Excel/assets/116808634/396ef1d5-c71e-4486-a13b-27e0a311b0b0)
+
 I grouped each product by the total orders to see the most sold products
+
+![Vrinda Product](https://github.com/eyitayo22/Sales-Report-In-Excel/assets/116808634/d8c555de-9e66-4175-a528-e2781c58caa1)
 
 I applied the same process to see the best-selling sizes
 
+![Vrinda Size](https://github.com/eyitayo22/Sales-Report-In-Excel/assets/116808634/2e9dc601-8426-42f1-8f4a-3e55ce4f6036)
+
 Lastly, I analyzed the data to see the State with the highest sales
+
+![Vrinda States](https://github.com/eyitayo22/Sales-Report-In-Excel/assets/116808634/85955c2c-ca97-47f9-bfbb-072906d2293b)
 
 ### Dashboard
 
 I created a sales dashboard in Excel to provide insights and dynamic answers to the business task. You can interact with it [here](https://onedrive.live.com/view.aspx?resid=270DAFD4C444DCEA%21656&id=documents)
+
+![Vrinda Report](https://github.com/eyitayo22/Sales-Report-In-Excel/assets/116808634/792f3299-f0d0-46c4-a7c7-eb3adf4b8f1f)
 
 ### Key Insights
 
