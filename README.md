@@ -9,7 +9,7 @@ In this project, I assume the role of a Data Analyst at Vrinda Clothing, a fashi
 
 ### About the Data Set
 
-The dataset contains informatu on 31047 Vrinda customers, which includes 2022 sales details, customer profiles, and order history. The data was downloaded from a file shared by Rishabh Mishra on [GitHub](https://github.com/rishabhnmishra/Excel_Vrinda_Store_Analysis/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx)
+The dataset contains information on 31047 Vrinda customers, which includes 2022 sales details, customer profiles, and order history. The data was downloaded from a file shared by Rishabh Mishra on [GitHub](https://github.com/rishabhnmishra/Excel_Vrinda_Store_Analysis/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx)
 
 ### Business Questions
 
